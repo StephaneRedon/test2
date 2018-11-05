@@ -2,6 +2,7 @@
 
 int main(void) {
 
-  return 0;
-
+	std::cout << "Hey, I'm StephaneRedonX!" << std::endl;
+	return 0;
+  
 }
